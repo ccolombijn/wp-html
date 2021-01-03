@@ -1,0 +1,15 @@
+{
+
+  "title":"a.title",
+  "custom_logo":"img.custom_logo",
+  "custom_background":"body.custom_background",
+  "test1_post_title":".test1_title",
+  "test1_post_content":".test1_content",
+  "test1_post_thumbnail_url":"img.test1_post_thumbnail_url",
+  "test2_post_title":".test2_title",
+  "test2_post_content":".test2_content",
+  "test3_post_title":"#test3_title",
+  "Zoeken":".search_button_label"
+
+
+}

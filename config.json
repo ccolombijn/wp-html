@@ -1,0 +1,13 @@
+{
+  "dir" : "test",
+  "file" : "index.html",
+  "keys" : "post_title,post_content,post_thumbnail_url,post_thumbnail_excerpt",
+  "wp_query" : [{
+    "post_type" : "page",
+    "order_by" : "menu_order",
+    "order" : "ASC"
+  }],
+  "insert_title" : true,
+  "minify" : false,
+  "log" : true
+}
